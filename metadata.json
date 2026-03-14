@@ -1,0 +1,5 @@
+{
+  "name": "Sikker Jobb Analyse (SJA)",
+  "description": "Profesjonelt verktøy for Sikker Jobb Analyse (SJA) med KI-støtte, signering og PDF-eksport.",
+  "requestFramePermissions": ["geolocation"]
+}
